@@ -1,0 +1,10 @@
+urlextract
+seaborn
+numpy
+pandas
+plotly
+matplotlib
+re
+emoji
+wordcloud
+scipy
