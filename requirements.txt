@@ -1,5 +1,6 @@
 urlextract
 seaborn
+streamlit
 numpy
 pandas
 plotly
